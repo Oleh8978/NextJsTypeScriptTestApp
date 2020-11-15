@@ -1,0 +1,2 @@
+# NextJsTypeScriptTestApp
+Created with CodeSandbox
